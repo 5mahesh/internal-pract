@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>MyClothsCollections</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+      <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">  
+      <link rel="stylesheet" href="mycss.css">
+      <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+      
+      
+    </head>
+    <body background="">
+       <nav class="nav">
+          <div class="logo">
+              <h3><a class="two" href="#">mahi</a></h3>
+          </div>
+          <div class="menu">
+              <ul>
+       <li class="nav-item"><a class="one" data-text="home" href="#homee">Home</a></li>
+       <li class="nav-item"><a class="one" href="#about" data-text="about">About</a></li>
+       <li class="nav-item"><a class="one" href="#shop" data-text="shop">Shop</a></li>
+       <li class="nav-item"><a class="one" href="#contact" data-text="contact">Contact</a></li>
+       <li class="nav-item"><a class="one" href="https://www.facebook.com"><i class="fa fa-facebook-f"> </i></a></li>
+              </ul>
+          </div>
+       </nav>  
+       
+     <header id="homee">
+         <div class="home">
+         <div class="head" data-text="[Neon_Light]">
+      <h1>Get up to <span></span></h1>
+       <h1>50% off<span></span></h1>
+       <h1>FROM ME TO U<span></span></h1>
+        <div class="button"><a href="#" class="btn">Shop Now</a> </div>
+         </div>
+         
+        <div class="img" >
+            <img src="DP.JPG" alt="1595684598167"/>
+        </div>
+        </div>
+     </header>  
+     
+     <section id="about">
+     
+              <div class="start"><h1>Our Collections</h1></div>
+<div align=center style="margin-left:480px;">              
+        <div class="container">
+         <div class="card" data-aos="fade-left">
+         <div class="img1">
+         <img src="14.webp" alt="images-16"/>
+             
+         </div>
+         <div class="content">
+             <h2>Kids's collection</h2>
+             <br />
+             <p>Hi, Welcome to Le Reve. Hope you are in good health. Feel free to knock me for any assistance...Hi, Welcome to Le Reve. Hope you are in good health. Feel free to knock me for any assistance...</p>
+         </div>
+             </div>
+             <div class="card" data-aos="zoom-in">
+         <div class="img2">
+         <img src="13.webp" alt="images-18"/>
+             
+         </div>
+         <div class="content">
+             <h2>Accessories</h2>
+             <br />
+             <p>Hi, Welcome to Le Reve. Hope you are in good health. Feel free to knock me for any assistance...Hi, Welcome to Le Reve. Hope you are in good health. Feel free to knock me for any assistance...</p>
+         </div>
+             </div>
+             
+             <div class="card" data-aos="fade-right">
+            <div class="img3">
+         <img src="12.webp" alt="images-17"'/>
+             
+         </div>
+         <div class="content">
+             <h2>Man's collectionss</h2>
+             <br />
+             <p>Hi, Welcome to Le Reve. Hope you are in good health. Feel free to knock me for any assistance...Hi, Welcome to Le Reve. Hope you are in good health. Feel free to knock me for any assistance...</p>
+         </div>
+          </div>         
+         </div> 
+     </section>    
+       </div>
+    <section id="contact">
+    <div class="contain">
+      
+   <div class="middle">  <h2>Contact Us</h2>
+   </div> 
+   <form class="form" method="post">
+       
+       <input class="line" type="text" placeholder="Your name" name="name" required/>
+       <input class="line" type="email" placeholder="Your email" name="@gmail.com" required/>
+       <input class="line" type="number" placeholder="Your phone" name="0088" required/>
+       <textarea type="text" name="message" placeholder="Write your message"></textarea>
+
+	 <input class="submit" type="submit" value="submit"/>
+       
+   </form>
+   </div>
+   
+	 <div class="socials">
+    <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+    <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+    <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+        </div>
+    </section>   
+       
+ <footer>
+     <marquee>&copy Designed and Operated by &copy; sagar</marquee>
+ </footer>      
+       
+    </body>
+</html>
+
+
+<script>   AOS.init(
+   {duration:1200}
+    
+) </script>
+
+
